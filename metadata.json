@@ -1,0 +1,6 @@
+{
+  "name": "Faveo Helpdesk – AI-Powered Support Ticketing & SLA Software",
+  "description": "Unified AI-powered customer support ticketing software with SLA escalation, automation, knowledge base, and cloud or self-hosted deployment options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
